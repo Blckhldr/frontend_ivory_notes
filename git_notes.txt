@@ -1,0 +1,7 @@
+git clone <repository_url> - Clone a remote repository to create a local copy on your machine.
+
+git init - Initialize a new Git repository in the current directory, creating a .git directory to store version history and configuration.
+
+git add <file_name> - Stage a specific file or directory to be included in the next commit.
+
+git commit -m "Commit message" - Record the staged changes in the repository with a descriptive message detailing the changes made in the commit.
